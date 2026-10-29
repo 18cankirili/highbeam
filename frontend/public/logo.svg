@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" role="img" aria-label="Highbeam">
+  <title>Highbeam</title>
+  <rect width="512" height="512" fill="#1A1A1A"/>
+  <!-- artwork is centered on the canvas and scaled to ~80% so it survives icon masks -->
+  <g transform="translate(256 256) scale(1.12) translate(-266.6 -243.4)" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <!-- speech bubble -->
+    <path d="M152 168 H304 A56 56 0 0 1 360 224 V282 A56 56 0 0 1 304 338 H196 L128 396 L152 338 A56 56 0 0 1 96 282 V224 A56 56 0 0 1 152 168 Z"
+          stroke="#FFFFFF" stroke-width="30"/>
+    <!-- light beam: symmetric fan from the top-right corner -->
+    <g stroke="#FF9800" stroke-width="28">
+      <line x1="396.7" y1="199.1" x2="439.2" y2="187.8"/>
+      <line x1="371.9" y1="156.1" x2="415.7" y2="112.3"/>
+      <line x1="328.9" y1="131.3" x2="340.2" y2="88.8"/>
+    </g>
+  </g>
+</svg>
